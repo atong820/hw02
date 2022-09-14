@@ -6,7 +6,7 @@ class Cbbb
 	double y;
 }
 
-public class hw02
+public class Class02
 { 
 	public static void main(String[] args) 
 	{
